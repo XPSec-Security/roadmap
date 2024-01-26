@@ -2,7 +2,7 @@
 Abaixo segue uma pequena lista de ferramentas que poderão te auxiliar em todo o processo do pentest, desde a enumeração à pós exploração em um ambiente, incluindo redes  Active Directory, ambientes mobile, campanhas de phishing e muito mais!
 <br>
 
-#### :male_detective: Enumeração
+### :male_detective: Enumeração
 
 > [!IMPORTANT]
 > Ferramentas para Enumeração te ajudam a obter informações sobre o ambiente alvo, seja de forma passiva ou ativa.
@@ -21,7 +21,7 @@ Abaixo segue uma pequena lista de ferramentas que poderão te auxiliar em todo o
 
 <br>
 
-#### :spider: Web Hacking
+### :spider: Web Hacking
 
 > [!IMPORTANT]
 >Ferramentas para ataques em aplicações web, facilitando o comprometimento de servidores por meio desses serviços.
@@ -39,7 +39,7 @@ Abaixo segue uma pequena lista de ferramentas que poderão te auxiliar em todo o
 
 <br>
 
-#### :computer: Post-Exploitation
+### :computer: Post-Exploitation
 
 > [!IMPORTANT]
 >Após obter acesso em uma rede, é necessário explorar mais a fundo a máquina onde o acesso foi obtido, e após isso, explorar a rede.
@@ -57,7 +57,7 @@ Abaixo segue uma pequena lista de ferramentas que poderão te auxiliar em todo o
 
 <br>
 
-#### :key: Ataques em Credenciais
+### :key: Ataques em Credenciais
 
 > [!IMPORTANT]
 >Abaixo confira algumas ferramentas com foco em quebra de senhas, seja online (serviços web) e offline (hash).
@@ -72,7 +72,7 @@ Abaixo segue uma pequena lista de ferramentas que poderão te auxiliar em todo o
 
 <br>
 
-#### :book: Wordlist
+### :book: Wordlist
 
 > [!IMPORTANT]
 >Você poderá combinar as wordlists abaixo com ataques focados em quebra de senha e também reconhecimento de usuários/arquivos/diretórios/subdomínios em um ambiente web.
@@ -85,7 +85,7 @@ Abaixo segue uma pequena lista de ferramentas que poderão te auxiliar em todo o
 
 <br>
 
-#### :satellite: Wi-Fi Hacking
+### :satellite: Wi-Fi Hacking
 
 > [!IMPORTANT]
 >Abaixo segue também uma lista de ferramentas com objetivo principal ataques em redes Wi-Fi, que podem ser combinadas com a lista de senhas anterior.
@@ -102,7 +102,7 @@ Abaixo segue uma pequena lista de ferramentas que poderão te auxiliar em todo o
 
 <br>
 
-#### :nose: Sniffing
+### :nose: Sniffing
 
 > [!IMPORTANT]
 >Também são úteis algumas ferramentas para captura e análise de tráfego da rede.
@@ -114,7 +114,7 @@ Abaixo segue uma pequena lista de ferramentas que poderão te auxiliar em todo o
 
 <br>
 
-#### :door: Active Directory
+### :door: Active Directory
 
 > [!IMPORTANT]
 >Principalmente em redes de Active Directory, as ferramentas abaixo podem ser facilmente utilizadas para ataques nesses ambientes.
@@ -129,7 +129,7 @@ Abaixo segue uma pequena lista de ferramentas que poderão te auxiliar em todo o
 
 <br>
 
-#### :iphone: Android Pentest
+### :iphone: Android Pentest
 
 > [!IMPORTANT]
 >Hoje qualquer empresa quer ter ou já tem um aplicativo, também existem ferramentas para pentest nesses aplicativos mobile, tanto Android quanto iOS.
@@ -142,7 +142,7 @@ Abaixo segue uma pequena lista de ferramentas que poderão te auxiliar em todo o
 
 <br>
 
-#### :email: Phishing
+### :email: Phishing
 
 > [!IMPORTANT]
 >Campanhas de phishing são extremamente importante, principalmente visando uma execução de um Red Team.
@@ -154,7 +154,7 @@ Abaixo segue uma pequena lista de ferramentas que poderão te auxiliar em todo o
 
 <br>
 
-#### :bug: C2
+### :bug: C2
 
 > [!IMPORTANT]
 >Ferramentas de comando e controle são ótimas para manter acesso em um ambiente, principalmente quando você precisa desenvolver seus próprios beacons/stagers e precisa de uma framework robusta para manter conexão com as máquinas infectadas.
