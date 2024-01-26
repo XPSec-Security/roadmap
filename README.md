@@ -11,6 +11,7 @@ Ferramentas para Information Gathering te ajudam a obter informações sobre o a
 | [CrossLinked](https://github.com/m8sec/CrossLinked)      | **Python** | `Linux/Windows/macOS` | LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping. |
 | [Spiderfoot](https://github.com/smicallef/spiderfoot)      | **Python** | `Linux/Windows/macOS` | SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. |
 
+<br><br>
 
 #### :male_detective: Enumeração
 
