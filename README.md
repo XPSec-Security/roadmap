@@ -1,7 +1,11 @@
+## Ferramentas para Hacking
+Abaixo segue uma pequena lista de ferramentas que poderão te auxiliar em todo o processo do pentest, desde a enumeração à pós exploração em um ambiente, incluindo redes  Active Directory, ambientes mobile, campanhas de phishing e muito mais!
+<br>
 
 #### :male_detective: Enumeração
 
-Ferramentas para Enumeração te ajudam a obter informações sobre o ambiente alvo, seja de forma passiva ou ativa.
+> [!IMPORTANT]
+> Ferramentas para Enumeração te ajudam a obter informações sobre o ambiente alvo, seja de forma passiva ou ativa.
 
 | Ferramenta        | Linguagem           | Suporte  | Descrição    |
 | ----------- |-------------------------|----------|----------------|
@@ -19,7 +23,8 @@ Ferramentas para Enumeração te ajudam a obter informações sobre o ambiente a
 
 #### :spider: Web Hacking
 
-Ferramentas para ataques em aplicações web, facilitando o comprometimento de servidores por meio desses serviços.
+> [!IMPORTANT]
+>Ferramentas para ataques em aplicações web, facilitando o comprometimento de servidores por meio desses serviços.
 
 | Ferramenta        | Linguagem           | Suporte  | Descrição    |
 | ----------- |-------------------------|----------|----------------|
@@ -36,7 +41,8 @@ Ferramentas para ataques em aplicações web, facilitando o comprometimento de s
 
 #### :computer: Post-Exploitation
 
-Após obter acesso em uma rede, é necessário explorar mais a fundo a máquina onde o acesso foi obtido, e após isso, explorar a rede.
+> [!IMPORTANT]
+>Após obter acesso em uma rede, é necessário explorar mais a fundo a máquina onde o acesso foi obtido, e após isso, explorar a rede.
 
 | Ferramenta        | Linguagem           | Suporte  | Descrição    |
 | ----------- |-------------------------|----------|----------------|
@@ -53,7 +59,8 @@ Após obter acesso em uma rede, é necessário explorar mais a fundo a máquina 
 
 #### :key: Ataques em Credenciais
 
-Abaixo confira algumas ferramentas com foco em quebra de senhas, seja online (serviços web) e offline (hash).
+> [!IMPORTANT]
+>Abaixo confira algumas ferramentas com foco em quebra de senhas, seja online (serviços web) e offline (hash).
 
 | Ferramenta        | Linguagem           | Suporte  | Descrição    |
 | ----------- |-------------------------|----------|----------------|
@@ -67,7 +74,8 @@ Abaixo confira algumas ferramentas com foco em quebra de senhas, seja online (se
 
 #### :book: Wordlist
 
-Você poderá combinar as wordlists abaixo com ataques focados em quebra de senha e também reconhecimento de usuários/arquivos/diretórios/subdomínios em um ambiente web.
+> [!IMPORTANT]
+>Você poderá combinar as wordlists abaixo com ataques focados em quebra de senha e também reconhecimento de usuários/arquivos/diretórios/subdomínios em um ambiente web.
 
 | Ferramenta        | Linguagem           | Suporte  | Descrição    |
 | ----------- |-------------------------|----------|----------------|
@@ -79,7 +87,8 @@ Você poderá combinar as wordlists abaixo com ataques focados em quebra de senh
 
 #### :satellite: Wi-Fi Hacking
 
-Abaixo segue também uma lista de ferramentas com objetivo principal ataques em redes Wi-Fi, que podem ser combinadas com a lista de senhas anterior.
+> [!IMPORTANT]
+>Abaixo segue também uma lista de ferramentas com objetivo principal ataques em redes Wi-Fi, que podem ser combinadas com a lista de senhas anterior.
 
 | Ferramenta        | Linguagem           | Suporte  | Descrição    |
 | ----------- |-------------------------|----------|----------------|
@@ -95,7 +104,8 @@ Abaixo segue também uma lista de ferramentas com objetivo principal ataques em 
 
 #### :nose: Sniffing
 
-Também são úteis algumas ferramentas para captura e análise de tráfego da rede.
+> [!IMPORTANT]
+>Também são úteis algumas ferramentas para captura e análise de tráfego da rede.
 
 | Ferramenta        | Linguagem           | Suporte  | Descrição    |
 | ----------- |-------------------------|----------|----------------|
@@ -106,7 +116,8 @@ Também são úteis algumas ferramentas para captura e análise de tráfego da r
 
 #### :door: Active Directory
 
-Principalmente em redes de Active Directory, as ferramentas abaixo podem ser facilmente utilizadas para ataques nesses ambientes.
+> [!IMPORTANT]
+>Principalmente em redes de Active Directory, as ferramentas abaixo podem ser facilmente utilizadas para ataques nesses ambientes.
 
 | Ferramenta        | Linguagem           | Suporte  | Descrição    |
 | ----------- |-------------------------|----------|----------------|
@@ -120,7 +131,8 @@ Principalmente em redes de Active Directory, as ferramentas abaixo podem ser fac
 
 #### :iphone: Android Pentest
 
-Hoje qualquer empresa quer ter ou já tem um aplicativo, também existem ferramentas para pentest nesses aplicativos mobile, tanto Android quanto iOS.
+> [!IMPORTANT]
+>Hoje qualquer empresa quer ter ou já tem um aplicativo, também existem ferramentas para pentest nesses aplicativos mobile, tanto Android quanto iOS.
 
 | Ferramenta        | Linguagem           | Suporte  | Descrição    |
 | ----------- |-------------------------|----------|----------------|
@@ -132,7 +144,8 @@ Hoje qualquer empresa quer ter ou já tem um aplicativo, também existem ferrame
 
 #### :email: Phishing
 
-Campanhas de phishing são extremamente importante, principalmente visando uma execução de um Red Team.
+> [!IMPORTANT]
+>Campanhas de phishing são extremamente importante, principalmente visando uma execução de um Red Team.
 
 | Ferramenta        | Linguagem           | Suporte  | Descrição    |
 | ----------- |-------------------------|----------|----------------|
@@ -143,7 +156,8 @@ Campanhas de phishing são extremamente importante, principalmente visando uma e
 
 #### :bug: C2
 
-Ferramentas de comando e controle são ótimas para manter acesso em um ambiente, principalmente quando você precisa desenvolver seus próprios beacons/stagers e precisa de uma framework robusta para manter conexão com as máquinas infectadas.
+> [!IMPORTANT]
+>Ferramentas de comando e controle são ótimas para manter acesso em um ambiente, principalmente quando você precisa desenvolver seus próprios beacons/stagers e precisa de uma framework robusta para manter conexão com as máquinas infectadas.
 
 | Ferramenta        | Linguagem           | Suporte  | Descrição    |
 | ----------- |-------------------------|----------|----------------|
