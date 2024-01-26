@@ -28,6 +28,7 @@
 ## :ninja: Introdução
 Antes de tudo, é importante ter em mente que a Segurança da Informação abrange diversas áreas, e é necessário identificar em qual delas você deseja se aprofundar. É importante ressaltar que esse roadmap se concentra somente no aspecto ofensivo da segurança, ou seja, pessoas que se dedicam a realizar ataques.
 <br>
+<br>
 ### :computer_mouse: Sistemas Operacionais
 
 > [!TIP]
