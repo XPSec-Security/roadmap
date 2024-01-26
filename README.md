@@ -206,10 +206,16 @@ Por favor, se esse conteúdo te ajudou, considere compartilhar para apoiar e mot
 >Esses são alguns livros que recomendamos, focados em tecnologia no geral e não abordando somente a área de Hacking/Pentest/Red Team.
 
 :book: [Advanced Penetration Testing: Hacking the World's Most Secure Networks](https://www.amazon.com/Advanced-Penetration-Testing-Hacking-Networks/dp/1119367689)
+
 :book: [The Hacker Playbook 2: Practical Guide to Penetration Testing](https://www.amazon.com.br/Hacker-Playbook-Practical-Penetration-Testing/dp/1512214566)
+
 :book: [The Hacker Playbook 3: Practical Guide To Penetration Testing](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing-ebook/dp/B07CSPFYZ2)
+
 :book: [Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters](https://www.amazon.com/Black-Hat-Python-2nd-Programming/dp/1718501129/ref=sr_1_1?crid=2N6HL7M6P6QIG&keywords=black+hat+python&qid=1691465374&sprefix=black+hat+pyth%2Caps%2C276&sr=8-1)
+
 :book: [Redes de Computadores](https://www.amazon.com.br/Redes-Computadores-Andrew-Tanenbaum/dp/8582605609/ref=sr_1_1?qid=1706296219&refinements=p_27%3AAndrew+Tanenbaum&s=books&sr=1-1&ufe=app_do%3Aamzn1.fos.6a09f7ec-d911-4889-ad70-de8dd83c8a74)
+
 :book: [Organização Estruturada de Computado](https://www.amazon.com.br/Organiza%C3%A7%C3%A3o-estruturada-computadores-Andrew-Tanenbaum/dp/8581435394/ref=sr_1_2?qid=1706296219&refinements=p_27%3AAndrew+Tanenbaum&s=books&sr=1-2&ufe=app_do%3Aamzn1.fos.db68964d-7c0e-4bb2-a95c-e5cb9e32eb12)
+
 :book: [Sistemas Operacionais Modernos](https://www.amazon.com.br/Sistemas-Operacionais-Modernos-Andrew-Tanenbaum/dp/8582606168/ref=sr_1_5?qid=1706296219&refinements=p_27%3AAndrew+Tanenbaum&s=books&sr=1-5&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678)
 
