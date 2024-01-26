@@ -66,29 +66,29 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 > [!TIP]
 > É impossível atuar na segurança ofensiva sem conhecimentos em redes, você pode até rodar uma ferramenta ou outra, mas... no fim será escravo de ferramentas. Além de entender como seu computador funciona, entenda como ele se comunica com outros computadores ao redor do mundo.
 
-[Protocolos TCP/IP](https://www.youtube.com/watch?v=kP1kktlbUTs&ab_channel=GlaukoCarvalho)
+:play_or_pause_button: [Protocolos TCP/IP](https://www.youtube.com/watch?v=kP1kktlbUTs&ab_channel=GlaukoCarvalho)
 
-[Protocolo HTTP](https://www.youtube.com/watch?v=V4XZ81vRGtM&ab_channel=AyrtonTeshima-ProgramadoraBordo)
+:play_or_pause_button: [Protocolo HTTP](https://www.youtube.com/watch?v=V4XZ81vRGtM&ab_channel=AyrtonTeshima-ProgramadoraBordo)
 
-[Protocolo ICMP](https://www.youtube.com/watch?v=XQ55xtZ2Wco&ab_channel=PreethiJ)
+:play_or_pause_button: [Protocolo ICMP](https://www.youtube.com/watch?v=XQ55xtZ2Wco&ab_channel=PreethiJ)
 
-[DNS Protocol](https://www.firewall.cx/networking/network-protocols/dns-protocol/protocols-dns.html)
+:book: [DNS Protocol](https://www.firewall.cx/networking/network-protocols/dns-protocol/protocols-dns.html)
 
-[Redes de Computadores](https://www.youtube.com/playlist?list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP)
+:play_or_pause_button: [Redes de Computadores](https://www.youtube.com/playlist?list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP)
 
-[Fundamentos em Redes de Computadores](https://www.youtube.com/playlist?list=PL1ohpeRa0gZ8mY4oGrX1d-H9YZW_jTAxb)
+:play_or_pause_button: [Fundamentos em Redes de Computadores](https://www.youtube.com/playlist?list=PL1ohpeRa0gZ8mY4oGrX1d-H9YZW_jTAxb)
 
-[Endereçamento IP](http://www.inf.ufes.br/~zegonc/material/Redes_de_Computadores/O%20Protocolo%20IP%282%29%20-%20Enderecamento.pdf)
+:book: [Endereçamento IP](http://www.inf.ufes.br/~zegonc/material/Redes_de_Computadores/O%20Protocolo%20IP%282%29%20-%20Enderecamento.pdf)
 
-[IPV4 / IPv6](https://www.youtube.com/watch?v=O8DmpmBMUSw&ab_channel=C%C3%B3digoFonteTV)
+:play_or_pause_button: [IPV4 / IPv6](https://www.youtube.com/watch?v=O8DmpmBMUSw&ab_channel=C%C3%B3digoFonteTV)
 
-[Wireless Networks](https://www.ece.rutgers.edu/~marsic/books/WN/book-WN_marsic.pdf)
+:book: [Wireless Networks](https://www.ece.rutgers.edu/~marsic/books/WN/book-WN_marsic.pdf)
 
-[Redes Sem Fio](https://www1.univap.br/helio/professor/apostilas/RedesSemFio.pdf)
+:book: [Redes Sem Fio](https://www1.univap.br/helio/professor/apostilas/RedesSemFio.pdf)
 
-[Entendendo a Rede Wi-Fi](https://www.youtube.com/watch?v=V2XW8nxNjcc&ab_channel=ManualdoMundo)
+:play_or_pause_button: [Entendendo a Rede Wi-Fi](https://www.youtube.com/watch?v=V2XW8nxNjcc&ab_channel=ManualdoMundo)
 
-[Servidores web](https://www.youtube.com/watch?v=lc6U93P4Sxw&ab_channel=FabioAkita)
+:play_or_pause_button: [Servidores web](https://www.youtube.com/watch?v=lc6U93P4Sxw&ab_channel=FabioAkita)
 
 <br>
 
@@ -97,13 +97,13 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 > [!TIP]
 > Após você entender um pouco sobre sistemas operacionais, linux, windows e o redes de computadores, vamos também dar uma olhada em virtualização, visto que será extremamente importante durante a sua caminhada.
 
-[O que é virtualização](https://www.youtube.com/watch?v=3VJsPxwaaG4&ab_channel=Prof.ThiagoCavalcanti)
+:play_or_pause_button: [O que é virtualização](https://www.youtube.com/watch?v=3VJsPxwaaG4&ab_channel=Prof.ThiagoCavalcanti)
 
-[Como funciona a virtualização](https://www.youtube.com/watch?v=FLhv_JcnYlU&ab_channel=MarceloRodrigues)
+:play_or_pause_button: [Como funciona a virtualização](https://www.youtube.com/watch?v=FLhv_JcnYlU&ab_channel=MarceloRodrigues)
 
-[Criando máquina virtual](https://www.youtube.com/watch?v=xzOmCxZSQWw&list=PLAp37wMSBouCqJnY-Qck_XDwplEud3ELc&ab_channel=HardwareRedesBrasil)
+:play_or_pause_button: [Criando máquina virtual](https://www.youtube.com/watch?v=xzOmCxZSQWw&list=PLAp37wMSBouCqJnY-Qck_XDwplEud3ELc&ab_channel=HardwareRedesBrasil)
 
-[Entendendo QEMU, KVM, Libvirt](https://www.youtube.com/watch?v=IDnabc3DjYY&ab_channel=FabioAkita)
+:play_or_pause_button: [Entendendo QEMU, KVM, Libvirt](https://www.youtube.com/watch?v=IDnabc3DjYY&ab_channel=FabioAkita)
 
 <br>
 
@@ -112,11 +112,11 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 > [!TIP]
 > Aprenda um pouco sobre docker também, atualmente está MUITO em alta e a maioria das ferramentas mais pesadas e que precisam de mais dependências podem ser executadas no docker para evitar dores de cabeça durante a instalação.
 
-[O que é docker](https://www.youtube.com/watch?v=ntbpIfS44Gw&ab_channel=Diolinux)
+:play_or_pause_button: [O que é docker](https://www.youtube.com/watch?v=ntbpIfS44Gw&ab_channel=Diolinux)
 
-[Docker Namespaces](https://www.youtube.com/watch?v=-YnMr1lj4Z8&ab_channel=LiveOverflow)
+:play_or_pause_button: [Docker Namespaces](https://www.youtube.com/watch?v=-YnMr1lj4Z8&ab_channel=LiveOverflow)
 
-[Containers](https://www.youtube.com/watch?v=85k8se4Zo70&ab_channel=FabioAkita)
+:play_or_pause_button: [Containers](https://www.youtube.com/watch?v=85k8se4Zo70&ab_channel=FabioAkita)
 
 <br>
 
@@ -125,11 +125,11 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 > [!TIP]
 > Não... você não vai ficar quebrando a cabeça com códigos fáceis simplesmente porque pulou a lógica de programação. Vamos pegar isso primeiro antes de começar a programar seus códigos...que imagino não serem lícitos.
 
-[Curso Lógica de Programação Completo](https://www.youtube.com/watch?v=iF2MdbrTiBM&ab_channel=DevAprender)
+:play_or_pause_button: [Curso Lógica de Programação Completo](https://www.youtube.com/watch?v=iF2MdbrTiBM&ab_channel=DevAprender)
 
-[Introdução a Algoritmos](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&ab_channel=CursoemV%C3%ADdeo)
+:play_or_pause_button: [Introdução a Algoritmos](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&ab_channel=CursoemV%C3%ADdeo)
 
-[Se nao aprender PROGRAMAÇÃO com esse video. - ̗̀ DESISTE ̖́-](https://www.youtube.com/watch?v=A1BaZr82XJI&ab_channel=Fiasco)
+:play_or_pause_button: [Se nao aprender PROGRAMAÇÃO com esse video. - ̗̀ DESISTE ̖́-](https://www.youtube.com/watch?v=A1BaZr82XJI&ab_channel=Fiasco)
 
 <br>
 
@@ -138,15 +138,15 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 > [!TIP]
 > Agora que você já deu uma estudada em lógica de programação, vamos realmente nos aprofundar em programação, pois você precisa criar seus próprios códigos.
 
-[Curso C](https://www.youtube.com/watch?v=2w8GYzBjNj8&list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2&ab_channel=PietroMartinsDeOliveira)
+:play_or_pause_button: [Curso C](https://www.youtube.com/watch?v=2w8GYzBjNj8&list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2&ab_channel=PietroMartinsDeOliveira)
 
-[Curso Python3](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&ab_channel=CursoemV%C3%ADdeo)
+:play_or_pause_button: [Curso Python3](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&ab_channel=CursoemV%C3%ADdeo)
 
-[Golang](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg&ab_channel=AprendaGo)
+:play_or_pause_button: [Golang](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg&ab_channel=AprendaGo)
 
-[SQL](https://www.youtube.com/watch?v=lHYV_H1526Q&list=PLbIBj8vQhvm2WT-pjGS5x7zUzmh4VgvRk&ab_channel=Ot%C3%A1vioMiranda)
+:play_or_pause_button: [SQL](https://www.youtube.com/watch?v=lHYV_H1526Q&list=PLbIBj8vQhvm2WT-pjGS5x7zUzmh4VgvRk&ab_channel=Ot%C3%A1vioMiranda)
 
-[JavaScript](https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&ab_channel=CursoemV%C3%ADdeo)
+:play_or_pause_button: [JavaScript](https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&ab_channel=CursoemV%C3%ADdeo)
 
 <br>
 
@@ -155,17 +155,17 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 > [!TIP]
 > Como você já passou pelos conceitos da web na parte de redes de computadores e programação (javascript, sql, web servers e etc), vamos dar os primeiros passos em entender como vulnerabilidades web ocorrem e seus ataques comuns.
 
-[Owasp top 10](https://owasp.org/www-project-top-ten/)
+:book: [Owasp top 10](https://owasp.org/www-project-top-ten/)
 
-[Web Hacking](https://www.youtube.com/watch?v=jmgsgjPn1vs&list=PLhixgUqwRTjx2BmNF5-GddyqZcizwLLGP&ab_channel=LiveOverflow)
+:play_or_pause_button: [Web Hacking](https://www.youtube.com/watch?v=jmgsgjPn1vs&list=PLhixgUqwRTjx2BmNF5-GddyqZcizwLLGP&ab_channel=LiveOverflow)
 
-[SQL Injection](https://www.youtube.com/watch?v=cx6Xs3F_1Uc&ab_channel=LoiLiangYang)
+:play_or_pause_button: [SQL Injection](https://www.youtube.com/watch?v=cx6Xs3F_1Uc&ab_channel=LoiLiangYang)
 
-[Hacktricks web pentest](https://book.hacktricks.xyz/pentesting-web/web-vulnerabilities-methodology)
+:book: [Hacktricks web pentest](https://book.hacktricks.xyz/pentesting-web/web-vulnerabilities-methodology)
 
-[Web Pentest](https://securityidiots.com/Web-Pentest/)
+:book: [Web Pentest](https://securityidiots.com/Web-Pentest/)
 
-[Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking)
+:book: [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking)
 
 <br>
 
@@ -174,19 +174,19 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 > [!TIP]
 > Também é importante dar uma olhada em API pentest, principalmente pois a próxima categoria se trata especificamente de mobile, então é bom iniciar com isso já aplicado.
 
-[Owasp API top 10](https://owasp.org/www-project-api-security/)
+:book: [Owasp API top 10](https://owasp.org/www-project-api-security/)
 
-[Segurança em API rest](https://blog.mandic.com.br/artigos/seguranca-em-apis-rest-parte-1/)
+:book: [Segurança em API rest](https://blog.mandic.com.br/artigos/seguranca-em-apis-rest-parte-1/)
 
-[API Pentest](https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/web-api-pentesting)
+:book: [API Pentest](https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/web-api-pentesting)
 
-[Pentest API](https://www.youtube.com/watch?v=fK_re2EYmXQ&ab_channel=Sec4US)
+:play_or_pause_button: [Pentest API](https://www.youtube.com/watch?v=fK_re2EYmXQ&ab_channel=Sec4US)
 
-[API Hacking 101](https://www.youtube.com/watch?v=qC8NQFwVOR0&ab_channel=Traceable)
+:play_or_pause_button: [API Hacking 101](https://www.youtube.com/watch?v=qC8NQFwVOR0&ab_channel=Traceable)
 
-[Owasp API top 10](https://www.youtube.com/watch?v=zTkv_9ChVPY&ab_channel=42Crunch)
+:play_or_pause_button: [Owasp API top 10](https://www.youtube.com/watch?v=zTkv_9ChVPY&ab_channel=42Crunch)
 
-[How to hack API in 2021](https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/)
+:book: [How to hack API in 2021](https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/)
 
 <br>
 
@@ -195,17 +195,17 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 > [!TIP]
 > Hoje toda empresa tem um aplicativo, existem diversas vulnerabilidades que podem ser exploradas nesses ambientes, principalmente se baseando na falta de mecanismos de segurança como SSL Pinning.
 
-[How android works](https://www.zdnet.com/article/how-android-works-the-big-picture/)
+:book: [How android works](https://www.zdnet.com/article/how-android-works-the-big-picture/)
 
-[How android app works](https://www.geeksforgeeks.org/how-does-android-app-work/)
+:book: [How android app works](https://www.geeksforgeeks.org/how-does-android-app-work/)
 
-[Awesome Mobile Security](https://github.com/vaib25vicky/awesome-mobile-security)
+:book: [Awesome Mobile Security](https://github.com/vaib25vicky/awesome-mobile-security)
 
-[Owasp mobile securitu checklist](https://github.com/OWASP/owasp-mastg/releases/tag/v1.6.0)
+:book: [Owasp mobile securitu checklist](https://github.com/OWASP/owasp-mastg/releases/tag/v1.6.0)
 
-[Android Cookbook](https://androidcookbook.com/)
+:book: [Android Cookbook](https://androidcookbook.com/)
 
-[Android pentest hacktricks](https://book.hacktricks.xyz/mobile-pentesting/android-app-pentesting)
+:book: [Android pentest hacktricks](https://book.hacktricks.xyz/mobile-pentesting/android-app-pentesting)
 
 <br>
 
@@ -214,19 +214,19 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 > [!TIP]
 > Aqui que entra a importância de ter aprendido sobre Windows lá na parte de sistemas operacionais. A maioria das empresas ainda usam o Active Directory para compartilhamento de recursos e saber isso é essencial para qualquer atacante.
 
-[Conceito de domínios e árvores](https://www.youtube.com/watch?v=B6U8bgRYKu8&ab_channel=DanielDonda)
+:play_or_pause_button: [Conceito de domínios e árvores](https://www.youtube.com/watch?v=B6U8bgRYKu8&ab_channel=DanielDonda)
 
-[Como AD funciona](https://www.youtube.com/watch?v=2NolRXdVUFg&ab_channel=JulioBattistiLivroseCursosLTDA)
+:play_or_pause_button: [Como AD funciona](https://www.youtube.com/watch?v=2NolRXdVUFg&ab_channel=JulioBattistiLivroseCursosLTDA)
 
-[Configurando o active directory](https://www.youtube.com/watch?v=ftyrmBETK2c&ab_channel=Burnish)
+:play_or_pause_button: [Configurando o active directory](https://www.youtube.com/watch?v=ftyrmBETK2c&ab_channel=Burnish)
 
-[Active Directory](https://danieldonda.com/tag/active-directory/)
+:book: [ Active Directory](https://danieldonda.com/tag/active-directory/)
 
-[ired.team](https://www.ired.team/offensive-security-experiments/active-directory-kerberos-abuse)
+:book: [ired.team](https://www.ired.team/offensive-security-experiments/active-directory-kerberos-abuse)
 
-[Hacktricks](https://book.hacktricks.xyz/windows-hardening/active-directory-methodology)
+:book: [Hacktricks](https://book.hacktricks.xyz/windows-hardening/active-directory-methodology)
 
-[GoldenTicket na prática](https://www.youtube.com/watch?v=bdkfGmkt8a0&ab_channel=DanielDonda)
+:play_or_pause_button: [GoldenTicket na prática](https://www.youtube.com/watch?v=bdkfGmkt8a0&ab_channel=DanielDonda)
 
 <br>
 
@@ -235,17 +235,17 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 > [!TIP]
 > É importante também aprender sobre vulnerabilidades em redes wi-fi, já que anteriormente também abordamos sobre esse tema.
 
-[Hacktricks Wi-Fi](https://book.hacktricks.xyz/generic-methodologies-and-resources/pentesting-wifi)
+:book: [Hacktricks Wi-Fi](https://book.hacktricks.xyz/generic-methodologies-and-resources/pentesting-wifi)
 
-[Hacking Articles Wifi](https://www.hackingarticles.in/category/wireless-hacking/)
+:book: [Hacking Articles Wifi](https://www.hackingarticles.in/category/wireless-hacking/)
 
-[WPA2/PSK Handshake Attack explicado](https://www.youtube.com/watch?v=X7t0_QAd2PQ&t=267s&ab_channel=PapoBin%C3%A1rio)
+:play_or_pause_button: [WPA2/PSK Handshake Attack explicado](https://www.youtube.com/watch?v=X7t0_QAd2PQ&t=267s&ab_channel=PapoBin%C3%A1rio)
 
-[Awesome Wi-Fi Arsenal](https://github.com/0x90/wifi-arsenal)
+:book: [Awesome Wi-Fi Arsenal](https://github.com/0x90/wifi-arsenal)
 
-[KRACK Attack](https://www.krackattacks.com/)
+:book: [KRACK Attack](https://www.krackattacks.com/)
 
-[Wi-Fi Attacks](https://www.greycampus.com/opencampus/ethical-hacking/wi-fi-attacks/)
+:book: [Wi-Fi Attacks](https://www.greycampus.com/opencampus/ethical-hacking/wi-fi-attacks/)
 
 <br>
 
@@ -436,9 +436,61 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 
 :book: [Redes de Computadores](https://www.amazon.com.br/Redes-Computadores-Andrew-Tanenbaum/dp/8582605609/ref=sr_1_1?qid=1706296219&refinements=p_27%3AAndrew+Tanenbaum&s=books&sr=1-1&ufe=app_do%3Aamzn1.fos.6a09f7ec-d911-4889-ad70-de8dd83c8a74)
 
-:book: [Organização Estruturada de Computado](https://www.amazon.com.br/Organiza%C3%A7%C3%A3o-estruturada-computadores-Andrew-Tanenbaum/dp/8581435394/ref=sr_1_2?qid=1706296219&refinements=p_27%3AAndrew+Tanenbaum&s=books&sr=1-2&ufe=app_do%3Aamzn1.fos.db68964d-7c0e-4bb2-a95c-e5cb9e32eb12)
+:book: [Organização Estruturada de Computadores](https://www.amazon.com.br/Organiza%C3%A7%C3%A3o-estruturada-computadores-Andrew-Tanenbaum/dp/8581435394/ref=sr_1_2?qid=1706296219&refinements=p_27%3AAndrew+Tanenbaum&s=books&sr=1-2&ufe=app_do%3Aamzn1.fos.db68964d-7c0e-4bb2-a95c-e5cb9e32eb12)
 
 :book: [Sistemas Operacionais Modernos](https://www.amazon.com.br/Sistemas-Operacionais-Modernos-Andrew-Tanenbaum/dp/8582606168/ref=sr_1_5?qid=1706296219&refinements=p_27%3AAndrew+Tanenbaum&s=books&sr=1-5&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678)
+
+<br>
+
+![](https://i.imgur.com/WTLoFrq.png)
+
+## :play_or_pause_button: Canais do YouTube
+
+>Se increva nesses canais abaixo para ficar sempre atualizado sobre o mundo da tecnologia e hacking!
+
+:ninja: [XPSec Security](https://www.youtube.com/@XPSecSecurity/videos)<br>
+:ninja: [Hak5](https://www.youtube.com/@hak5)<br>
+:ninja: [STOK](https://www.youtube.com/@STOKfredrik)<br>
+:ninja: [John Hammond](https://www.youtube.com/@_JohnHammond)<br>
+:ninja: [Loi Liang Yang](https://www.youtube.com/@LoiLiangYang)<br>
+:ninja: [cazz](https://www.youtube.com/@cazz)<br>
+:ninja: [CROW](https://www.youtube.com/@crr0ww)<br>
+:ninja: [The Cyber Mentor](https://www.youtube.com/@TCMSecurityAcademy)<br>
+:ninja: [David Bombal](https://www.youtube.com/@davidbombal/videos)<br>
+:ninja: [NetworkChuck](https://www.youtube.com/@NetworkChuck)<br>
+:ninja: [Blackhat](https://www.youtube.com/@BlackHatOfficialYT)<br>
+:ninja: [LiveOverflow](https://www.youtube.com/@LiveOverflow)
+
+
+<br>
+
+![](https://i.imgur.com/WTLoFrq.png)
+
+## :link: Links Úteis
+
+>Alguns links que serão úteis para a sua jornada.
+
+:link: [Awesome red team](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
+
+:link: [Awesome Darknet](https://github.com/matronator/awesome-darknet)
+
+:link: [Pentest tools](https://github.com/gwen001/pentest-tools)
+
+:link: [Browser exploitation](https://github.com/Escapingbug/awesome-browser-exploit)
+
+:link: [ired.team](https://www.ired.team/)
+
+:link: [hacktricks](https://book.hacktricks.xyz/welcome/readme)
+
+:link: [Portswigger](https://portswigger.net/web-security)
+
+:link: [Hackthebox](https://www.hackthebox.com/)
+
+:link: [Vulnhub](https://www.vulnhub.com/)
+
+:link: [THM](https://tryhackme.com/)
+
+<br>
 
 ![](https://i.imgur.com/WTLoFrq.png)
 
