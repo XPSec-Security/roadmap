@@ -386,6 +386,7 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 >Se increva nesses canais abaixo para ficar sempre atualizado sobre o mundo da tecnologia e hacking!
 
 :ninja: [XPSec Security](https://www.youtube.com/@XPSecSecurity/videos)<br>
+:ninja: [Formming Hackers](https://www.youtube.com/channel/UCuTgOHWjMls_uPGT2wbBI7g/videos)<br>
 :ninja: [Hak5](https://www.youtube.com/@hak5)<br>
 :ninja: [STOK](https://www.youtube.com/@STOKfredrik)<br>
 :ninja: [John Hammond](https://www.youtube.com/@_JohnHammond)<br>
