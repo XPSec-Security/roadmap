@@ -19,7 +19,7 @@
 </p>
   
   >[!NOTE]
->Tem alguma sugestão? [info@xpsecsecurity.io](mailto:info@xpsecsecurity.io)
+>Confira nosso treinamentos: [XPSec Academy](https://xpsec.academy/)
 <br>
 
 ![](https://i.imgur.com/WTLoFrq.png)
