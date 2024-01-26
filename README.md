@@ -423,7 +423,7 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 
 ![](https://i.imgur.com/WTLoFrq.png)
 
-## Compartilhe com a comunidade
+## Compartilhe com a comunidade ❤
 
 Por favor, se esse conteúdo te ajudou, considere compartilhar para apoiar e motivar com o desenvolvimento.
 
