@@ -22,20 +22,11 @@
 
 ![](https://i.imgur.com/WTLoFrq.png)
 
-## Compartilhe com a comunidade
 
-Por favor, se esse conteúdo te ajudou, considere compartilhar para apoiar e motivar com o desenvolvimento.
-
-[![GitHub Repo stars](https://img.shields.io/badge/share%20on-twitter-03A9F4?logo=twitter)](https://twitter.com/share?url=https://github.com/XPSec-Security/roadmap&text=Confira%20esse%20roadmap%incrivel%20da%20xpsec%20security%20para%20hacking!!) [![GitHub Repo stars](https://img.shields.io/badge/share%20on-facebook-1976D2?logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/XPSec-Security/roadmap) [![GitHub Repo stars](https://img.shields.io/badge/share%20on-linkedin-3949AB?logo=linkedin)](https://www.linkedin.com/shareArticle?url=https://github.com/XPSec-Security/roadmap&title=Confira%20esse%20roadmap%incrivel%20da%20xpsec%20security%20para%20hacking!!)
-
-![](https://i.imgur.com/WTLoFrq.png)
-
-<br>
-
-## Introdução
+## :ninja: Introdução
 Antes de tudo, é importante ter em mente que a Segurança da Informação abrange diversas áreas, e é necessário identificar em qual delas você deseja se aprofundar. É importante ressaltar que esse roadmap se concentra somente no aspecto ofensivo da segurança, ou seja, pessoas que se dedicam a realizar ataques.
 
-### Sistemas Operacionais
+### :computer_mouse: Sistemas Operacionais
 
 > [!TIP]
 > É extremamente importante entender como o seu próprio computador funciona antes de querer hackear algo, principalmente o computador de outra pessoa.
@@ -68,87 +59,189 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 
 :book: [Processos do Windows](https://imphash.medium.com/windows-process-internals-a-few-concepts-to-know-before-jumping-on-memory-forensics-part-5-a-2368187685e)
 
-### Redes de Computadores
+### :chains: Redes de Computadores
 
 > [!TIP]
 > É impossível atuar na segurança ofensiva sem conhecimentos em redes, você pode até rodar uma ferramenta ou outra, mas... no fim será escravo de ferramentas. Além de entender como seu computador funciona, entenda como ele se comunica com outros computadores ao redor do mundo.
 
+[Protocolos TCP/IP](https://www.youtube.com/watch?v=kP1kktlbUTs&ab_channel=GlaukoCarvalho)
+
+[Protocolo HTTP](https://www.youtube.com/watch?v=V4XZ81vRGtM&ab_channel=AyrtonTeshima-ProgramadoraBordo)
+
+[Protocolo ICMP](https://www.youtube.com/watch?v=XQ55xtZ2Wco&ab_channel=PreethiJ)
+
+[DNS Protocol](https://www.firewall.cx/networking/network-protocols/dns-protocol/protocols-dns.html)
+
+[Redes de Computadores](https://www.youtube.com/playlist?list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP)
+
+[Fundamentos em Redes de Computadores](https://www.youtube.com/playlist?list=PL1ohpeRa0gZ8mY4oGrX1d-H9YZW_jTAxb)
+
+[Endereçamento IP](http://www.inf.ufes.br/~zegonc/material/Redes_de_Computadores/O%20Protocolo%20IP%282%29%20-%20Enderecamento.pdf)
+
+[IPV4 / IPv6](https://www.youtube.com/watch?v=O8DmpmBMUSw&ab_channel=C%C3%B3digoFonteTV)
+
+[Wireless Networks](https://www.ece.rutgers.edu/~marsic/books/WN/book-WN_marsic.pdf)
+
+[Redes Sem Fio](https://www1.univap.br/helio/professor/apostilas/RedesSemFio.pdf)
+
+[Entendendo a Rede Wi-Fi](https://www.youtube.com/watch?v=V2XW8nxNjcc&ab_channel=ManualdoMundo)
+
+[Servidores web](https://www.youtube.com/watch?v=lc6U93P4Sxw&ab_channel=FabioAkita)
 
 
-### Virtualização
+
+### :sunglasses: Virtualização
 
 > [!TIP]
 > Após você entender um pouco sobre sistemas operacionais, linux, windows e o redes de computadores, vamos também dar uma olhada em virtualização, visto que será extremamente importante durante a sua caminhada.
 
+[O que é virtualização](https://www.youtube.com/watch?v=3VJsPxwaaG4&ab_channel=Prof.ThiagoCavalcanti)
+
+[Como funciona a virtualização](https://www.youtube.com/watch?v=FLhv_JcnYlU&ab_channel=MarceloRodrigues)
+
+[Criando máquina virtual](https://www.youtube.com/watch?v=xzOmCxZSQWw&list=PLAp37wMSBouCqJnY-Qck_XDwplEud3ELc&ab_channel=HardwareRedesBrasil)
+
+[Entendendo QEMU, KVM, Libvirt](https://www.youtube.com/watch?v=IDnabc3DjYY&ab_channel=FabioAkita)
 
 
-### Docker
+### :passenger_ship: Docker
 
 > [!TIP]
 > Aprenda um pouco sobre docker também, atualmente está MUITO em alta e a maioria das ferramentas mais pesadas e que precisam de mais dependências podem ser executadas no docker para evitar dores de cabeça durante a instalação.
 
+[O que é docker](https://www.youtube.com/watch?v=ntbpIfS44Gw&ab_channel=Diolinux)
+
+[Docker Namespaces](https://www.youtube.com/watch?v=-YnMr1lj4Z8&ab_channel=LiveOverflow)
+
+[Containers](https://www.youtube.com/watch?v=85k8se4Zo70&ab_channel=FabioAkita)
 
 
-### Lógica de Programação
+### :heavy_multiplication_x: Lógica de Programação
 
 > [!TIP]
 > Não... você não vai ficar quebrando a cabeça com códigos fáceis simplesmente porque pulou a lógica de programação. Vamos pegar isso primeiro antes de começar a programar seus códigos...que imagino não serem lícitos.
 
+[Curso Lógica de Programação Completo](https://www.youtube.com/watch?v=iF2MdbrTiBM&ab_channel=DevAprender)
+
+[Introdução a Algoritmos](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&ab_channel=CursoemV%C3%ADdeo)
+
+[Se nao aprender PROGRAMAÇÃO com esse video. - ̗̀ DESISTE ̖́-](https://www.youtube.com/watch?v=A1BaZr82XJI&ab_channel=Fiasco)
 
 
-
-### Programação
+### :computer_mouse: Programação
 
 > [!TIP]
 > Agora que você já deu uma estudada em lógica de programação, vamos realmente nos aprofundar em programação, pois você precisa criar seus próprios códigos.
 
+[Curso C](https://www.youtube.com/watch?v=2w8GYzBjNj8&list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2&ab_channel=PietroMartinsDeOliveira)
+
+[Curso Python3](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&ab_channel=CursoemV%C3%ADdeo)
+
+[Golang](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg&ab_channel=AprendaGo)
+
+[SQL](https://www.youtube.com/watch?v=lHYV_H1526Q&list=PLbIBj8vQhvm2WT-pjGS5x7zUzmh4VgvRk&ab_channel=Ot%C3%A1vioMiranda)
+
+[JavaScript](https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&ab_channel=CursoemV%C3%ADdeo)
 
 
-
-### Web Hacking
+### :spider: Web Hacking
 
 > [!TIP]
 > Como você já passou pelos conceitos da web na parte de redes de computadores e programação (javascript, sql, web servers e etc), vamos dar os primeiros passos em entender como vulnerabilidades web ocorrem e seus ataques comuns.
 
+[Owasp top 10](https://owasp.org/www-project-top-ten/)
+
+[Web Hacking](https://www.youtube.com/watch?v=jmgsgjPn1vs&list=PLhixgUqwRTjx2BmNF5-GddyqZcizwLLGP&ab_channel=LiveOverflow)
+
+[SQL Injection](https://www.youtube.com/watch?v=cx6Xs3F_1Uc&ab_channel=LoiLiangYang)
+
+[Hacktricks web pentest](https://book.hacktricks.xyz/pentesting-web/web-vulnerabilities-methodology)
+
+[Web Pentest](https://securityidiots.com/Web-Pentest/)
+
+[Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking)
 
 
-### API Pentest
+
+### :nut_and_bolt: API Pentest
 
 > [!TIP]
 > Também é importante dar uma olhada em API pentest, principalmente pois a próxima categoria se trata especificamente de mobile, então é bom iniciar com isso já aplicado.
 
+[Owasp API top 10](https://owasp.org/www-project-api-security/)
+
+[Segurança em API rest](https://blog.mandic.com.br/artigos/seguranca-em-apis-rest-parte-1/)
+
+[API Pentest](https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/web-api-pentesting)
+
+[Pentest API](https://www.youtube.com/watch?v=fK_re2EYmXQ&ab_channel=Sec4US)
+
+[API Hacking 101](https://www.youtube.com/watch?v=qC8NQFwVOR0&ab_channel=Traceable)
+
+[Owasp API top 10](https://www.youtube.com/watch?v=zTkv_9ChVPY&ab_channel=42Crunch)
+
+[How to hack API in 2021](https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/)
 
 
-### Mobile Pentest
+### :iphone: Mobile Pentest
 
 > [!TIP]
 > Hoje toda empresa tem um aplicativo, existem diversas vulnerabilidades que podem ser exploradas nesses ambientes, principalmente se baseando na falta de mecanismos de segurança como SSL Pinning.
 
+[How android works](https://www.zdnet.com/article/how-android-works-the-big-picture/)
 
+[How android app works](https://www.geeksforgeeks.org/how-does-android-app-work/)
 
+[Awesome Mobile Security](https://github.com/vaib25vicky/awesome-mobile-security)
 
+[Owasp mobile securitu checklist](https://github.com/OWASP/owasp-mastg/releases/tag/v1.6.0)
 
+[Android Cookbook](https://androidcookbook.com/)
 
-### Active Directory
+[Android pentest hacktricks](https://book.hacktricks.xyz/mobile-pentesting/android-app-pentesting)
+
+### :computer: Active Directory
 
 > [!TIP]
 > Aqui que entra a importância de ter aprendido sobre Windows lá na parte de sistemas operacionais. A maioria das empresas ainda usam o Active Directory para compartilhamento de recursos e saber isso é essencial para qualquer atacante.
 
+[Conceito de domínios e árvores](https://www.youtube.com/watch?v=B6U8bgRYKu8&ab_channel=DanielDonda)
+
+[Como AD funciona](https://www.youtube.com/watch?v=2NolRXdVUFg&ab_channel=JulioBattistiLivroseCursosLTDA)
+
+[Configurando o active directory](https://www.youtube.com/watch?v=ftyrmBETK2c&ab_channel=Burnish)
+
+[Active Directory](https://danieldonda.com/tag/active-directory/)
+
+[ired.team](https://www.ired.team/offensive-security-experiments/active-directory-kerberos-abuse)
+
+[Hacktricks](https://book.hacktricks.xyz/windows-hardening/active-directory-methodology)
+
+[GoldenTicket na prática](https://www.youtube.com/watch?v=bdkfGmkt8a0&ab_channel=DanielDonda)
 
 
-
-### Wi-Fi Hacking
+### :satellite: Wi-Fi Hacking
 
 > [!TIP]
 > É importante também aprender sobre vulnerabilidades em redes wi-fi, já que anteriormente também abordamos sobre esse tema.
 
+[Hacktricks Wi-Fi](https://book.hacktricks.xyz/generic-methodologies-and-resources/pentesting-wifi)
 
+[Hacking Articles Wifi](https://www.hackingarticles.in/category/wireless-hacking/)
+
+[WPA2/PSK Handshake Attack explicado](https://www.youtube.com/watch?v=X7t0_QAd2PQ&t=267s&ab_channel=PapoBin%C3%A1rio)
+
+[Awesome Wi-Fi Arsenal](https://github.com/0x90/wifi-arsenal)
+
+[KRACK Attack](https://www.krackattacks.com/)
+
+[Wi-Fi Attacks](https://www.greycampus.com/opencampus/ethical-hacking/wi-fi-attacks/)
 
 <br>
 
 ![](https://i.imgur.com/WTLoFrq.png)
 
-## Ferramentas para Hacking
+## :pick: Ferramentas para Hacking
 >Abaixo segue uma pequena lista de ferramentas que poderão te auxiliar em todo o processo do pentest, desde a enumeração à pós exploração em um ambiente, incluindo redes  Active Directory, ambientes mobile, campanhas de phishing e muito mais!
 <br>
 
@@ -337,3 +430,10 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 
 :book: [Sistemas Operacionais Modernos](https://www.amazon.com.br/Sistemas-Operacionais-Modernos-Andrew-Tanenbaum/dp/8582606168/ref=sr_1_5?qid=1706296219&refinements=p_27%3AAndrew+Tanenbaum&s=books&sr=1-5&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678)
 
+![](https://i.imgur.com/WTLoFrq.png)
+
+## Compartilhe com a comunidade
+
+Por favor, se esse conteúdo te ajudou, considere compartilhar para apoiar e motivar com o desenvolvimento.
+
+[![GitHub Repo stars](https://img.shields.io/badge/share%20on-twitter-03A9F4?logo=twitter)](https://twitter.com/share?url=https://github.com/XPSec-Security/roadmap&text=Confira%20esse%20roadmap%incrivel%20da%20xpsec%20security%20para%20hacking!!) [![GitHub Repo stars](https://img.shields.io/badge/share%20on-facebook-1976D2?logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/XPSec-Security/roadmap) [![GitHub Repo stars](https://img.shields.io/badge/share%20on-linkedin-3949AB?logo=linkedin)](https://www.linkedin.com/shareArticle?url=https://github.com/XPSec-Security/roadmap&title=Confira%20esse%20roadmap%incrivel%20da%20xpsec%20security%20para%20hacking!!)
