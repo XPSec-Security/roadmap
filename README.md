@@ -30,6 +30,124 @@ Por favor, se esse conteúdo te ajudou, considere compartilhar para apoiar e mot
 
 ![](https://i.imgur.com/WTLoFrq.png)
 
+<br>
+
+## Introdução
+Antes de tudo, é importante ter em mente que a Segurança da Informação abrange diversas áreas, e é necessário identificar em qual delas você deseja se aprofundar. É importante ressaltar que esse roadmap se concentra somente no aspecto ofensivo da segurança, ou seja, pessoas que se dedicam a realizar ataques.
+
+### Sistemas Operacionais
+
+> [!TIP]
+> É extremamente importante entender como o seu próprio computador funciona antes de querer hackear algo, principalmente o computador de outra pessoa.
+
+:book: [Arquitetura e Organização de Computadores](https://www.amazon.com.br/Arquitetura-organiza%C3%A7%C3%A3o-computadores-William-Stallings/dp/8543020530/ref=d_pd_sbs_sccl_1_1/138-9140110-6201902?pd_rd_w=V4afj&content-id=amzn1.sym.bc536bd6-e72b-44eb-9471-0bedf0517c03&pf_rd_p=bc536bd6-e72b-44eb-9471-0bedf0517c03&pf_rd_r=QPQ51SA1S67FZ7R8AGDN&pd_rd_wg=eg8iR&pd_rd_r=d8b1aaf8-5485-43f4-b430-7200bf2a81b1&pd_rd_i=8543020530&psc=1)
+
+:book: [Sistemas Operacionais Modernos](https://www.amazon.com.br/Sistemas-operacionais-modernos-Andrew-Tanenbaum/dp/8543005671/ref=pd_bxgy_sccl_2/138-9140110-6201902?pd_rd_w=ukxGE&content-id=amzn1.sym.758f3509-df88-4265-806c-565a738dc05d&pf_rd_p=758f3509-df88-4265-806c-565a738dc05d&pf_rd_r=KC8VEY0T1S1HRXRP580J&pd_rd_wg=TjNDt&pd_rd_r=8c5c4c41-7fed-4d03-ae06-5d30e82a0106&pd_rd_i=8543005671&psc=1)
+
+:play_or_pause_button: [CPU](https://www.youtube.com/watch?v=6jSKldt7Eqs&ab_channel=LiveOverflow)
+
+:play_or_pause_button: [ASM hello world](https://www.youtube.com/watch?v=HgEGAaYdABA&ab_channel=JohnHammond)
+
+:book: [Linux Timeline](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
+
+:play_or_pause_button: [Instalação Linux Mint](https://www.youtube.com/watch?v=ZhLjvy23rrs&ab_channel=CursoemV%C3%ADdeo)
+
+:play_or_pause_button: [Diferentes tipos de kernel](https://www.youtube.com/watch?v=hfi2lqaa6YQ)
+
+:play_or_pause_button: [Linux Kernel Drivers](https://www.youtube.com/watch?v=juGNPLdjLH4&ab_channel=LiveOverflow)
+
+:play_or_pause_button: [Syscalls](https://www.youtube.com/watch?v=fLS99zJDHOc&ab_channel=LiveOverflow)
+
+:play_or_pause_button: [Linux básico](https://www.youtube.com/watch?v=aW4Owxgcvq4&list=PLnDvRpP8BnezDTtL8lm6C-UOJZn-xzALH&ab_channel=MatheusBattisti-HoradeCodar)
+
+:book: [Formato PE](https://mentebinaria.gitbook.io/engenharia-reversa/o-formato-pe)
+
+:book: [Windows API](https://mentebinaria.gitbook.io/engenharia-reversa/windows-api)
+
+:book: [Windows API](https://users.physics.ox.ac.uk/~Steane/cpp_help/winapi_intro.htm)
+
+:book: [Processos do Windows](https://imphash.medium.com/windows-process-internals-a-few-concepts-to-know-before-jumping-on-memory-forensics-part-5-a-2368187685e)
+
+### Redes de Computadores
+
+> [!TIP]
+> É impossível atuar na segurança ofensiva sem conhecimentos em redes, você pode até rodar uma ferramenta ou outra, mas... no fim será escravo de ferramentas. Além de entender como seu computador funciona, entenda como ele se comunica com outros computadores ao redor do mundo.
+
+
+
+### Virtualização
+
+> [!TIP]
+> Após você entender um pouco sobre sistemas operacionais, linux, windows e o redes de computadores, vamos também dar uma olhada em virtualização, visto que será extremamente importante durante a sua caminhada.
+
+
+
+### Docker
+
+> [!TIP]
+> Aprenda um pouco sobre docker também, atualmente está MUITO em alta e a maioria das ferramentas mais pesadas e que precisam de mais dependências podem ser executadas no docker para evitar dores de cabeça durante a instalação.
+
+
+
+### Lógica de Programação
+
+> [!TIP]
+> Não... você não vai ficar quebrando a cabeça com códigos fáceis simplesmente porque pulou a lógica de programação. Vamos pegar isso primeiro antes de começar a programar seus códigos...que imagino não serem lícitos.
+
+
+
+
+### Programação
+
+> [!TIP]
+> Agora que você já deu uma estudada em lógica de programação, vamos realmente nos aprofundar em programação, pois você precisa criar seus próprios códigos.
+
+
+
+
+### Web Hacking
+
+> [!TIP]
+> Como você já passou pelos conceitos da web na parte de redes de computadores e programação (javascript, sql, web servers e etc), vamos dar os primeiros passos em entender como vulnerabilidades web ocorrem e seus ataques comuns.
+
+
+
+### API Pentest
+
+> [!TIP]
+> Também é importante dar uma olhada em API pentest, principalmente pois a próxima categoria se trata especificamente de mobile, então é bom iniciar com isso já aplicado.
+
+
+
+### Mobile Pentest
+
+> [!TIP]
+> Hoje toda empresa tem um aplicativo, existem diversas vulnerabilidades que podem ser exploradas nesses ambientes, principalmente se baseando na falta de mecanismos de segurança como SSL Pinning.
+
+
+
+
+
+
+### Active Directory
+
+> [!TIP]
+> Aqui que entra a importância de ter aprendido sobre Windows lá na parte de sistemas operacionais. A maioria das empresas ainda usam o Active Directory para compartilhamento de recursos e saber isso é essencial para qualquer atacante.
+
+
+
+
+### Wi-Fi Hacking
+
+> [!TIP]
+> É importante também aprender sobre vulnerabilidades em redes wi-fi, já que anteriormente também abordamos sobre esse tema.
+
+
+
+<br>
+
+![](https://i.imgur.com/WTLoFrq.png)
+
 ## Ferramentas para Hacking
 >Abaixo segue uma pequena lista de ferramentas que poderão te auxiliar em todo o processo do pentest, desde a enumeração à pós exploração em um ambiente, incluindo redes  Active Directory, ambientes mobile, campanhas de phishing e muito mais!
 <br>
