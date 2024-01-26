@@ -1,5 +1,37 @@
+<p align="center">
+  <img src="https://i.imgur.com/PqWD8ek.png" height="128">
+  <h2 align="center">Hacking Roadmap</h2>
+  <p align="center">Roadmap para Hacking criado pela XPSec Security, com o intuito de ajudar a todos dessa comunidade.<p>
+  <p align="center">
+    <a href="https://instagram.com/xpsecsecurity">
+    	<img src="https://img.shields.io/badge/%E2%9C%A8-Instagram%20-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="Instagram" />
+    </a>
+    <a href="https://www.linkedin.com/company/xpsecsecurity">
+    	<img src="https://img.shields.io/badge/%E2%9C%A8-LinkedIn-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="LinkedIn" />
+    </a>
+    <a href="https://youtube.com/c/xpsecsecurity?sub_confirmation=1">
+    	<img src="https://img.shields.io/badge/%E2%9C%A8-YouTube-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="YouTube" />
+    </a>
+    <a href="https://xpsecsecurity.io/">
+    	<img src="https://img.shields.io/badge/%E2%9C%A8-Site Oficial-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="Site Oficial" />
+    </a>
+  </p>
+</p>
+
+<br>
+
+![](https://i.imgur.com/WTLoFrq.png)
+
+## Compartilhe com a comunidade
+
+Por favor, se esse conteúdo te ajudou, considere compartilhar para apoiar e motivar com o desenvolvimento.
+
+[![GitHub Repo stars](https://img.shields.io/badge/share%20on-twitter-03A9F4?logo=twitter)](https://twitter.com/share?url=https://github.com/XPSec-Security/roadmap&text=Confira%20esse%20roadmap%incrivel%20da%20xpsec%20security%20para%20hacking!!) [![GitHub Repo stars](https://img.shields.io/badge/share%20on-facebook-1976D2?logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/XPSec-Security/roadmap) [![GitHub Repo stars](https://img.shields.io/badge/share%20on-linkedin-3949AB?logo=linkedin)](https://www.linkedin.com/shareArticle?url=https://github.com/XPSec-Security/roadmap&title=Confira%20esse%20roadmap%incrivel%20da%20xpsec%20security%20para%20hacking!!)
+
+![](https://i.imgur.com/WTLoFrq.png)
+
 ## Ferramentas para Hacking
-Abaixo segue uma pequena lista de ferramentas que poderão te auxiliar em todo o processo do pentest, desde a enumeração à pós exploração em um ambiente, incluindo redes  Active Directory, ambientes mobile, campanhas de phishing e muito mais!
+>Abaixo segue uma pequena lista de ferramentas que poderão te auxiliar em todo o processo do pentest, desde a enumeração à pós exploração em um ambiente, incluindo redes  Active Directory, ambientes mobile, campanhas de phishing e muito mais!
 <br>
 
 ### :male_detective: Enumeração
@@ -164,3 +196,20 @@ Abaixo segue uma pequena lista de ferramentas que poderão te auxiliar em todo o
 | [CobaltStrike](https://www.cobaltstrike.com/)      | **Java** | `Linux/Windows/macOS` | Software for Adversary Simulations and Red Team Operations. |
 | [BruteRatel](https://bruteratel.com/)      | **C#** | `Linux/Windows/macOS` | A Customized Command and Control Center for Red Team and Adversary Simulation. |
 | [Covenant](https://github.com/cobbr/Covenant)      | **.NET** | `Linux/Windows/macOS` | Covenant is a collaborative .NET C2 framework for red teamers. |
+
+<br>
+
+![](https://i.imgur.com/WTLoFrq.png)
+
+## :books: Livros Recomendados
+
+>Esses são alguns livros que recomendamos, focados em tecnologia no geral e não abordando somente a área de Hacking/Pentest/Red Team.
+
+:book: [Advanced Penetration Testing: Hacking the World's Most Secure Networks](https://www.amazon.com/Advanced-Penetration-Testing-Hacking-Networks/dp/1119367689)
+:book: [The Hacker Playbook 2: Practical Guide to Penetration Testing](https://www.amazon.com.br/Hacker-Playbook-Practical-Penetration-Testing/dp/1512214566)
+:book: [The Hacker Playbook 3: Practical Guide To Penetration Testing](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing-ebook/dp/B07CSPFYZ2)
+:book: [Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters](https://www.amazon.com/Black-Hat-Python-2nd-Programming/dp/1718501129/ref=sr_1_1?crid=2N6HL7M6P6QIG&keywords=black+hat+python&qid=1691465374&sprefix=black+hat+pyth%2Caps%2C276&sr=8-1)
+:book: [Redes de Computadores](https://www.amazon.com.br/Redes-Computadores-Andrew-Tanenbaum/dp/8582605609/ref=sr_1_1?qid=1706296219&refinements=p_27%3AAndrew+Tanenbaum&s=books&sr=1-1&ufe=app_do%3Aamzn1.fos.6a09f7ec-d911-4889-ad70-de8dd83c8a74)
+:book: [Organização Estruturada de Computado](https://www.amazon.com.br/Organiza%C3%A7%C3%A3o-estruturada-computadores-Andrew-Tanenbaum/dp/8581435394/ref=sr_1_2?qid=1706296219&refinements=p_27%3AAndrew+Tanenbaum&s=books&sr=1-2&ufe=app_do%3Aamzn1.fos.db68964d-7c0e-4bb2-a95c-e5cb9e32eb12)
+:book: [Sistemas Operacionais Modernos](https://www.amazon.com.br/Sistemas-Operacionais-Modernos-Andrew-Tanenbaum/dp/8582606168/ref=sr_1_5?qid=1706296219&refinements=p_27%3AAndrew+Tanenbaum&s=books&sr=1-5&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678)
+
