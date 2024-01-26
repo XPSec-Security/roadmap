@@ -17,7 +17,9 @@
     </a>
   </p>
 </p>
-
+  
+  >[!NOTE]
+>Tem alguma sugestão? [info@xpsecsecurity.io](mailto:info@xpsecsecurity.io)
 <br>
 
 ![](https://i.imgur.com/WTLoFrq.png)
@@ -362,6 +364,7 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 
 ## :books: Livros Recomendados
 
+>[!NOTE]
 >Esses são alguns livros que recomendamos, focados em tecnologia no geral e não abordando somente a área de Hacking/Pentest/Red Team.
 
 :book: [Advanced Penetration Testing: Hacking the World's Most Secure Networks](https://www.amazon.com/Advanced-Penetration-Testing-Hacking-Networks/dp/1119367689)<br>
@@ -378,6 +381,7 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 
 ## :play_or_pause_button: Canais do YouTube
 
+>[!NOTE]
 >Se increva nesses canais abaixo para ficar sempre atualizado sobre o mundo da tecnologia e hacking!
 
 :ninja: [XPSec Security](https://www.youtube.com/@XPSecSecurity/videos)<br>
@@ -400,6 +404,7 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 
 ## :link: Links Úteis
 
+>[!NOTE]
 >Alguns links que serão úteis para a sua jornada.
 
 :link: [Awesome red team](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)<br>
