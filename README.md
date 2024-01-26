@@ -359,7 +359,7 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 | [BruteRatel](https://bruteratel.com/)      | **C#** | `Linux/Windows/macOS` | A Customized Command and Control Center for Red Team and Adversary Simulation. |
 | [Covenant](https://github.com/cobbr/Covenant)      | **.NET** | `Linux/Windows/macOS` | Covenant is a collaborative .NET C2 framework for red teamers. |
 
-<br>
+<br><br>
 
 ![](https://i.imgur.com/WTLoFrq.png)
 
@@ -376,7 +376,7 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 :book: [Organização Estruturada de Computadores](https://www.amazon.com.br/Organiza%C3%A7%C3%A3o-estruturada-computadores-Andrew-Tanenbaum/dp/8581435394/ref=sr_1_2?qid=1706296219&refinements=p_27%3AAndrew+Tanenbaum&s=books&sr=1-2&ufe=app_do%3Aamzn1.fos.db68964d-7c0e-4bb2-a95c-e5cb9e32eb12)<br>
 :book: [Sistemas Operacionais Modernos](https://www.amazon.com.br/Sistemas-Operacionais-Modernos-Andrew-Tanenbaum/dp/8582606168/ref=sr_1_5?qid=1706296219&refinements=p_27%3AAndrew+Tanenbaum&s=books&sr=1-5&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678)
 
-<br>
+<br><br>
 
 ![](https://i.imgur.com/WTLoFrq.png)
 
@@ -399,7 +399,7 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 :ninja: [LiveOverflow](https://www.youtube.com/@LiveOverflow)
 
 
-<br>
+<br><br>
 
 ![](https://i.imgur.com/WTLoFrq.png)
 
@@ -419,7 +419,7 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 :link: [Vulnhub](https://www.vulnhub.com/)<br>
 :link: [THM](https://tryhackme.com/)
 
-<br>
+<br><br>
 
 ![](https://i.imgur.com/WTLoFrq.png)
 
