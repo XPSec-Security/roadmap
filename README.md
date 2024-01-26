@@ -25,7 +25,7 @@
 
 ## :ninja: Introdução
 Antes de tudo, é importante ter em mente que a Segurança da Informação abrange diversas áreas, e é necessário identificar em qual delas você deseja se aprofundar. É importante ressaltar que esse roadmap se concentra somente no aspecto ofensivo da segurança, ou seja, pessoas que se dedicam a realizar ataques.
-
+<br>
 ### :computer_mouse: Sistemas Operacionais
 
 > [!TIP]
@@ -59,6 +59,8 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 
 :book: [Processos do Windows](https://imphash.medium.com/windows-process-internals-a-few-concepts-to-know-before-jumping-on-memory-forensics-part-5-a-2368187685e)
 
+<br>
+
 ### :chains: Redes de Computadores
 
 > [!TIP]
@@ -88,7 +90,7 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 
 [Servidores web](https://www.youtube.com/watch?v=lc6U93P4Sxw&ab_channel=FabioAkita)
 
-
+<br>
 
 ### :sunglasses: Virtualização
 
@@ -103,6 +105,7 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 
 [Entendendo QEMU, KVM, Libvirt](https://www.youtube.com/watch?v=IDnabc3DjYY&ab_channel=FabioAkita)
 
+<br>
 
 ### :passenger_ship: Docker
 
@@ -115,6 +118,7 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 
 [Containers](https://www.youtube.com/watch?v=85k8se4Zo70&ab_channel=FabioAkita)
 
+<br>
 
 ### :heavy_multiplication_x: Lógica de Programação
 
@@ -127,6 +131,7 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 
 [Se nao aprender PROGRAMAÇÃO com esse video. - ̗̀ DESISTE ̖́-](https://www.youtube.com/watch?v=A1BaZr82XJI&ab_channel=Fiasco)
 
+<br>
 
 ### :computer_mouse: Programação
 
@@ -143,6 +148,7 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 
 [JavaScript](https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&ab_channel=CursoemV%C3%ADdeo)
 
+<br>
 
 ### :spider: Web Hacking
 
@@ -161,7 +167,7 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 
 [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking)
 
-
+<br>
 
 ### :nut_and_bolt: API Pentest
 
@@ -182,6 +188,7 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 
 [How to hack API in 2021](https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/)
 
+<br>
 
 ### :iphone: Mobile Pentest
 
@@ -199,6 +206,8 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 [Android Cookbook](https://androidcookbook.com/)
 
 [Android pentest hacktricks](https://book.hacktricks.xyz/mobile-pentesting/android-app-pentesting)
+
+<br>
 
 ### :computer: Active Directory
 
@@ -219,6 +228,7 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 
 [GoldenTicket na prática](https://www.youtube.com/watch?v=bdkfGmkt8a0&ab_channel=DanielDonda)
 
+<br>
 
 ### :satellite: Wi-Fi Hacking
 
