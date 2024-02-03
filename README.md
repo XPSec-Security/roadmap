@@ -67,7 +67,7 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 :book: [Wireless Networks](https://www.ece.rutgers.edu/~marsic/books/WN/book-WN_marsic.pdf)<br>
 :book: [Redes Sem Fio](https://www1.univap.br/helio/professor/apostilas/RedesSemFio.pdf)<br>
 :play_or_pause_button: [Entendendo a Rede Wi-Fi](https://www.youtube.com/watch?v=V2XW8nxNjcc&ab_channel=ManualdoMundo)<br>
-:play_or_pause_button: [Servidores web](https://www.youtube.com/watch?v=lc6U93P4Sxw&ab_channel=FabioAkita)
+:play_or_pause_button: [Servidores web](https://www.youtube.com/watch?v=lc6U93P4Sxw&ab_channel=FabioAkita)<br>
 :play_or_pause_button: [FREE CCNA // What is a Network?](https://www.youtube.com/watch?v=S7MNX_UD7vY&list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
 
 <br>
