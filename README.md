@@ -19,7 +19,7 @@
 </p>
   
   >[!NOTE]
->Confira nosso treinamentos: [XPSec Academy](https://xpsec.academy/)
+>Confira nossos treinamentos: [XPSec Academy](https://xpsec.academy/)
 <br>
 
 ![](https://i.imgur.com/WTLoFrq.png)
