@@ -359,7 +359,7 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 | [CobaltStrike](https://www.cobaltstrike.com/)      | **Java** | `Linux/Windows/macOS` | Software for Adversary Simulations and Red Team Operations. |
 | [BruteRatel](https://bruteratel.com/)      | **C#** | `Linux/Windows/macOS` | A Customized Command and Control Center for Red Team and Adversary Simulation. |
 | [Covenant](https://github.com/cobbr/Covenant)      | **.NET** | `Linux/Windows/macOS` | Covenant is a collaborative .NET C2 framework for red teamers. |
-| [Villain]([https://github.com/t3l3machus/Villain)      | **Python** | `Linux/Windows/macOS` | Villain is a C2 framework that can handle multiple TCP socket & HoaxShell-based reverse shells. |
+| [Villain](https://github.com/t3l3machus/Villain)      | **Python** | `Linux/Windows/macOS` | Villain is a C2 framework that can handle multiple TCP socket & HoaxShell-based reverse shells. |
 
 
 <br><br>
