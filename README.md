@@ -290,14 +290,13 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 | [Aircrack-ng](https://github.com/aircrack-ng/aircrack-ng)      | **C** | `Linux/macOS` | WiFi security auditing tools suite. |
 | [Wifite2](https://github.com/derv82/wifite2)      | **Python** | `Linux/macOS` | Rewrite of the popular wireless network auditor, "wifite". |
 | [Bettercap](https://github.com/bettercap/bettercap)      | **Go** | `Linux/macOS` | The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks. |
-| [ARPSpoof](https://github.com/smikims/arpspoof)      | **C** | `Linux/macOS` | Performs an ARP spoofing attack using the Linux kernel's raw sockets. |
 | [Wifi-Hacking](https://github.com/ankit0183/Wifi-Hacking)      | **Python** | `Linux/macOS` | Cyber Security Tool For Hacking Wireless Connections Using Built-In Kali Tools. |
 | [wifipumpkin3](https://github.com/P0cL4bs/wifipumpkin3)      | **Python** | `Linux/Windows/macOS` | Powerful framework for rogue access point attack. |
 | [wifiphisher](https://github.com/wifiphisher/wifiphisher)      | **Python** | `Linux/macOS` | The Rogue Access Point Framework. |
 
 <br>
 
-### :nose: Sniffing
+### :nose: Sniffing & Spoofing
 
 > [!IMPORTANT]
 >Também são úteis algumas ferramentas para captura e análise de tráfego da rede.
@@ -306,6 +305,8 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 | ----------- |-------------------------|----------|----------------|
 | [Wireshark](https://gitlab.com/wireshark/wireshark)      | **C** | `Linux/Windows/macOS` | Network traffic sniffer and analyzer. |
 | [TCPDump](https://github.com/the-tcpdump-group/tcpdump)      | **C** | `Linux/macOS` | Network dissector. |
+| [ARPSpoof](https://github.com/smikims/arpspoof)      | **C** | `Linux/macOS` | Performs an ARP spoofing attack using the Linux kernel's raw sockets. |
+| [DNSSPoof](https://github.com/DanMcInerney/dnsspoof)      | **Python** | `Linux/macOS` | Drops DNS responses from the router and replaces it with the spoofed DNS response. |
 
 <br>
 
