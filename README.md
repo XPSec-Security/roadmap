@@ -335,6 +335,7 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 | [Frida](https://github.com/frida/frida/)      | **Python** | `Linux/Windows/macOS` | Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers. |
 | [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)      | **Python** | `Linux/Windows/macOS` | Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework. |
 | [reFlutter](https://github.com/Impact-I/reFlutter)      | **Python** | `Linux/Windows/macOS` | Flutter Reverse Engineering Framework. |
+| [Objection](https://github.com/sensepost/objection)      | **Python** | `Linux/Windows/macOS` | objection - runtime mobile exploration. |
 
 <br>
 
