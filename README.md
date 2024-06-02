@@ -34,8 +34,8 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 > [!TIP]
 > É extremamente importante entender como o seu próprio computador funciona antes de querer hackear algo, principalmente o computador de outra pessoa.
 
-:book: [Arquitetura e Organização de Computadores](https://www.amazon.com.br/Arquitetura-organiza%C3%A7%C3%A3o-computadores-William-Stallings/dp/8543020530/ref=d_pd_sbs_sccl_1_1/138-9140110-6201902?pd_rd_w=V4afj&content-id=amzn1.sym.bc536bd6-e72b-44eb-9471-0bedf0517c03&pf_rd_p=bc536bd6-e72b-44eb-9471-0bedf0517c03&pf_rd_r=QPQ51SA1S67FZ7R8AGDN&pd_rd_wg=eg8iR&pd_rd_r=d8b1aaf8-5485-43f4-b430-7200bf2a81b1&pd_rd_i=8543020530&psc=1)<br>
-:book: [Sistemas Operacionais Modernos](https://www.amazon.com.br/Sistemas-operacionais-modernos-Andrew-Tanenbaum/dp/8543005671/ref=pd_bxgy_sccl_2/138-9140110-6201902?pd_rd_w=ukxGE&content-id=amzn1.sym.758f3509-df88-4265-806c-565a738dc05d&pf_rd_p=758f3509-df88-4265-806c-565a738dc05d&pf_rd_r=KC8VEY0T1S1HRXRP580J&pd_rd_wg=TjNDt&pd_rd_r=8c5c4c41-7fed-4d03-ae06-5d30e82a0106&pd_rd_i=8543005671&psc=1)<br>
+:book: [Arquitetura e Organização de Computadores](https://amzn.to/4bIWjav)<br>
+:book: [Sistemas Operacionais Modernos](https://amzn.to/4e2HjWJ)<br>
 :play_or_pause_button: [CPU](https://www.youtube.com/watch?v=6jSKldt7Eqs&ab_channel=LiveOverflow)<br>
 :play_or_pause_button: [ASM hello world](https://www.youtube.com/watch?v=HgEGAaYdABA&ab_channel=JohnHammond)<br>
 :book: [Linux Timeline](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)<br>
@@ -373,13 +373,13 @@ Antes de tudo, é importante ter em mente que a Segurança da Informação abran
 >[!NOTE]
 >Esses são alguns livros que recomendamos, focados em tecnologia no geral e não abordando somente a área de Hacking/Pentest/Red Team.
 
-:book: [Advanced Penetration Testing: Hacking the World's Most Secure Networks](https://www.amazon.com/Advanced-Penetration-Testing-Hacking-Networks/dp/1119367689)<br>
-:book: [The Hacker Playbook 2: Practical Guide to Penetration Testing](https://www.amazon.com.br/Hacker-Playbook-Practical-Penetration-Testing/dp/1512214566)<br>
-:book: [The Hacker Playbook 3: Practical Guide To Penetration Testing](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing-ebook/dp/B07CSPFYZ2)<br>
-:book: [Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters](https://www.amazon.com/Black-Hat-Python-2nd-Programming/dp/1718501129/ref=sr_1_1?crid=2N6HL7M6P6QIG&keywords=black+hat+python&qid=1691465374&sprefix=black+hat+pyth%2Caps%2C276&sr=8-1)<br>
-:book: [Redes de Computadores](https://www.amazon.com.br/Redes-Computadores-Andrew-Tanenbaum/dp/8582605609/ref=sr_1_1?qid=1706296219&refinements=p_27%3AAndrew+Tanenbaum&s=books&sr=1-1&ufe=app_do%3Aamzn1.fos.6a09f7ec-d911-4889-ad70-de8dd83c8a74)<br>
-:book: [Organização Estruturada de Computadores](https://www.amazon.com.br/Organiza%C3%A7%C3%A3o-estruturada-computadores-Andrew-Tanenbaum/dp/8581435394/ref=sr_1_2?qid=1706296219&refinements=p_27%3AAndrew+Tanenbaum&s=books&sr=1-2&ufe=app_do%3Aamzn1.fos.db68964d-7c0e-4bb2-a95c-e5cb9e32eb12)<br>
-:book: [Sistemas Operacionais Modernos](https://www.amazon.com.br/Sistemas-Operacionais-Modernos-Andrew-Tanenbaum/dp/8582606168/ref=sr_1_5?qid=1706296219&refinements=p_27%3AAndrew+Tanenbaum&s=books&sr=1-5&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678)
+:book: [Advanced Penetration Testing: Hacking the World's Most Secure Networks](https://amzn.to/459vB8B)<br>
+:book: [The Hacker Playbook 2: Practical Guide to Penetration Testing](https://amzn.to/3KsyJmy)<br>
+:book: [The Hacker Playbook 3: Practical Guide To Penetration Testing](https://amzn.to/3x2fOfb)<br>
+:book: [Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters](https://amzn.to/3VoQY2l)<br>
+:book: [Redes de Computadores](https://amzn.to/3VsTBAA)<br>
+:book: [Organização Estruturada de Computadores](https://amzn.to/3yC3GSv)<br>
+:book: [Sistemas Operacionais Modernos](https://amzn.to/3X1XHRj)
 
 <br><br>
 
